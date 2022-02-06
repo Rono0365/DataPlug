@@ -1,6 +1,6 @@
 # iota
 
-A new Flutter project.
+An App written in dart
 
 ## Getting Started
 
